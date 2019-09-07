@@ -41,3 +41,9 @@
 	width: 100%;
 	margin: 15px 0;
 }
+
+body, html {
+	overflow-x: hidden;
+	overflow: hidden;
+	font-family: 'Roboto', san-serif;
+}
