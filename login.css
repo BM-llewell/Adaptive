@@ -25,9 +25,8 @@
 }
 
 .login-input {
-	width: 150px;
+	width: 200px;
 	padding: 10px;
-	margin: 5px 0;
 	padding-inline-start: 15px;
 	border-radius: 5px;
 	border: 1px solid #bec2c5;
@@ -36,4 +35,9 @@
 .panel-body {
 	width: 100%;
 	text-align: center;
+}
+
+.login-control {
+	width: 100%;
+	margin: 15px 0;
 }
